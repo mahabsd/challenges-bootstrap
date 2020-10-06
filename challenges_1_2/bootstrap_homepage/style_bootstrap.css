@@ -1,0 +1,26 @@
+.navbar{
+    background-color: #7952b3;
+    margin-bottom: 0px !important;
+}
+
+.navbar-brand {
+    padding: 10px 15px !important;
+}
+.text-color{
+    color: #7952b3 !important;
+}
+.text-color1{
+    color:white !important;
+}
+.row-grey{
+    background-color: #dfe1ee;
+}
+.col-without-padding{
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+}
+
+.image {
+    width:300px;
+    height:300px; 
+}

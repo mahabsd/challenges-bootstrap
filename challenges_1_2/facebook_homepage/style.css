@@ -1,0 +1,31 @@
+
+    /* .col-without-padding {
+        padding-right: 0;
+        padding-left: 0;
+    } */
+    .row-blue{
+        background-color: #3b5998 !important;
+    }
+    .button-blue
+    {
+        background-color: #4e69aa ;
+    }
+    .row-grey{
+        background-color: #dfe1ee;
+    }
+    .margin{
+        margin: 50px;
+    }
+    .btn-green{
+        background-color: #56953e;
+    }
+    .col-without-padding{
+        padding-right: 0 !important;
+        padding-left: 0 !important;
+    }
+    .nav-blue{
+        background-color: #3b5998 !important;
+    }
+    .menu-font-size {   
+        font-size: 500px !important;
+    }
